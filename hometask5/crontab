@@ -1,0 +1,1 @@
+* * * * 1-5 bash /vagrant/backup.sh > /var/log/logged-in.log
