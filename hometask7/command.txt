@@ -1,0 +1,2 @@
+ssh -D 4222 -p 4222 -i home/danyillandiuk/.ssh/id_rsa root@yoko.ukrtux.com
+ssh -R 14222:192.168.33.10:80 -p 4222 -i home/danyillandiuk/.ssh/id_rsa root@yoko.ukrtux.com
